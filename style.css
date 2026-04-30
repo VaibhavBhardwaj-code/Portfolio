@@ -91,7 +91,7 @@ body{
 #img{
     width: 400px;
     height: 550px;
-    background-color: red;
+    /* background-color: red; */
     margin-top: 125px;
     border-radius: 750px;
     margin-left: 250px;
